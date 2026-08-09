@@ -1,0 +1,2 @@
+# first-crack-coffee-landing-pitch-deck
+Static landing page for First Crack Coffee plus a 5-slide pitch deck (.pptx)
